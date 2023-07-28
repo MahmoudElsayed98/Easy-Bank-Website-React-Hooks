@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Easy-Bank-Website-React-Hooks/static/css/main.1417bb36.css",
+    "main.js": "/Easy-Bank-Website-React-Hooks/static/js/main.ab4364bd.js",
+    "static/js/787.4c6c5e25.chunk.js": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js",
+    "static/media/image-mockups.png": "/Easy-Bank-Website-React-Hooks/static/media/image-mockups.48d35b175fe3d36de4ee.png",
+    "static/media/logo.svg": "/Easy-Bank-Website-React-Hooks/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg",
+    "static/media/bg-intro-desktop.svg": "/Easy-Bank-Website-React-Hooks/static/media/bg-intro-desktop.8be308fd4ce79bd32a09ec5437774701.svg",
+    "index.html": "/Easy-Bank-Website-React-Hooks/index.html",
+    "main.1417bb36.css.map": "/Easy-Bank-Website-React-Hooks/static/css/main.1417bb36.css.map",
+    "main.ab4364bd.js.map": "/Easy-Bank-Website-React-Hooks/static/js/main.ab4364bd.js.map",
+    "787.4c6c5e25.chunk.js.map": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1417bb36.css",
+    "static/js/main.ab4364bd.js"
+  ]
+}
