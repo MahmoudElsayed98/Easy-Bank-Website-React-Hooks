@@ -1,0 +1,4 @@
+.landing-page {
+    height: calc(100vh - 72px);
+    background-color: hsl(0, 0%, 98%);
+}
