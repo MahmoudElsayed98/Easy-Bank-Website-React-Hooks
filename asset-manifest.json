@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Easy-Bank-Website-React-Hooks/static/css/main.1417bb36.css",
-    "main.js": "/Easy-Bank-Website-React-Hooks/static/js/main.ab4364bd.js",
+    "main.css": "/Easy-Bank-Website-React-Hooks/static/css/main.2013301c.css",
+    "main.js": "/Easy-Bank-Website-React-Hooks/static/js/main.1738e40f.js",
     "static/js/787.4c6c5e25.chunk.js": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js",
     "static/media/image-mockups.png": "/Easy-Bank-Website-React-Hooks/static/media/image-mockups.48d35b175fe3d36de4ee.png",
+    "static/media/icon-api.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-api.74c8ad1751bbd1e7f545e458f9306885.svg",
+    "static/media/icon-onboarding.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-onboarding.d74aed6429619336a30e42334d6eb432.svg",
     "static/media/logo.svg": "/Easy-Bank-Website-React-Hooks/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg",
+    "static/media/icon-budgeting.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-budgeting.ad7169975ea1eda87072ea0325a8204a.svg",
     "static/media/bg-intro-desktop.svg": "/Easy-Bank-Website-React-Hooks/static/media/bg-intro-desktop.8be308fd4ce79bd32a09ec5437774701.svg",
+    "static/media/icon-online.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-online.b0622b15741418e9efe3805d1b2ac26b.svg",
     "index.html": "/Easy-Bank-Website-React-Hooks/index.html",
-    "main.1417bb36.css.map": "/Easy-Bank-Website-React-Hooks/static/css/main.1417bb36.css.map",
-    "main.ab4364bd.js.map": "/Easy-Bank-Website-React-Hooks/static/js/main.ab4364bd.js.map",
+    "main.2013301c.css.map": "/Easy-Bank-Website-React-Hooks/static/css/main.2013301c.css.map",
+    "main.1738e40f.js.map": "/Easy-Bank-Website-React-Hooks/static/js/main.1738e40f.js.map",
     "787.4c6c5e25.chunk.js.map": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1417bb36.css",
-    "static/js/main.ab4364bd.js"
+    "static/css/main.2013301c.css",
+    "static/js/main.1738e40f.js"
   ]
 }
