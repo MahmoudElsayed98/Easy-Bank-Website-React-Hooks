@@ -7,7 +7,7 @@ import Btn from '../Btn';
 
 function Header() {
   return (
-    <Navbar className='header my-2' expand="lg">
+    <Navbar className='header py-3' expand="lg">
       <Container>
       <Navbar.Brand href="#home">
             <img
@@ -26,7 +26,7 @@ function Header() {
             <Nav.Link className='pe-3' href="#careers">Careers</Nav.Link>
           </Nav>
         </Navbar.Collapse>
-            <Btn />
+            <Btn sty="d-none"/>
       </Container>
     </Navbar>
   );

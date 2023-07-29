@@ -1,0 +1,8 @@
+.about-us {
+    position: relative;
+    z-index: 9;
+    background-color: white;
+}
+.paragraph {
+line-height: 1.8;
+}
