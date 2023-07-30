@@ -1,8 +1,9 @@
 .about-us {
     position: relative;
     z-index: 9;
-    background-color: white;
+    background-color: hsl(220, 16%, 96%);
 }
+
 .paragraph {
-line-height: 1.8;
+    line-height: 1.8;
 }

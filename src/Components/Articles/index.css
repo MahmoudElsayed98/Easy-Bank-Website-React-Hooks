@@ -1,0 +1,28 @@
+.articles {
+    background-color: hsl(0, 0%, 98%);
+}
+
+
+.articles span {
+    font-size: 12.5px;
+}
+
+.articles p {
+    font-size: 14px;
+}
+
+.articles .row img {
+    width: 100%;
+    height: 200px;
+}
+
+
+@media (max-width: 767px) {
+    .articles .row img {
+        height: 300px;
+    }
+}
+
+.articles .row .text {
+    background-color: hsl(0, 0%, 100%);
+}

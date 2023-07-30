@@ -1,0 +1,24 @@
+.footer {
+    background-color: hsl(233, 26%, 24%);
+    color: hsl(0, 0%, 100%);
+}
+
+.footer p {
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+}
+
+.footer .copy-right {
+    margin-top: 32.5px;
+    margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+    .footer p {
+        font-size: 15.5px;
+    }
+
+    .footer .copy-right {
+        margin-top: 20px;
+    }
+}
