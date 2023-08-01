@@ -5,7 +5,7 @@
 
 .landing-page .lower-background {
     left: 46%;
-    top: -42.5%;
+    top: -41.5%;
     width: 82.5%;
 }
 
@@ -28,7 +28,7 @@
 
 .landing-page .upper-background {
     left: 57.5%;
-    bottom: -28.5%;
+    bottom: -33%;
     width: 51%;
     z-index: 10;
 }
@@ -40,14 +40,14 @@
 @media (max-width: 1199px) {
     .landing-page .lower-background {
         left: 37.5%;
-        top: -38%;
+        top: -40%;
         width: 100%;
     }
 
     .landing-page .upper-background {
-        left: 52%;
-        bottom: -24%;
-        width: 58%;
+        left: 51.25%;
+        bottom: -25%;
+        width: 59%;
     }
 }
 
