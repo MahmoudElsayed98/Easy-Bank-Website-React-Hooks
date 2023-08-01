@@ -17,7 +17,7 @@ function LandingPage() {
             <p className='text-lg-start fs-6 mb-4'>Take your financial life online. Your Easybank account <br />
               will be a one-stop-shop for spending, saving, <br />
               budgeting, investing, and much more.</p>
-            <Btn sty="align-self-center d-flex" />
+            <Btn sty="align-self-center align-self-lg-start d-flex" />
           </div>
           <div className="col d-none d-lg-flex flex-column justify-content-center align-items-center">
             <img src={lowerBackgroundDesktop} alt="lower background" className='lower-background position-absolute' />
