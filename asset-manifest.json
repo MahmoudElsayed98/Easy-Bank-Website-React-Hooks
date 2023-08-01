@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Easy-Bank-Website-React-Hooks/static/css/main.c24e9635.css",
+    "main.css": "/Easy-Bank-Website-React-Hooks/static/css/main.4dccc8d4.css",
     "main.js": "/Easy-Bank-Website-React-Hooks/static/js/main.58ac0a05.js",
     "static/js/787.4c6c5e25.chunk.js": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js",
     "static/media/image-currency.jpg": "/Easy-Bank-Website-React-Hooks/static/media/image-currency.1b385bf9f62bf25ef22d.jpg",
@@ -23,12 +23,12 @@
     "static/media/icon-youtube.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-youtube.7d6960fbb0c4831f7c667012f0b102d2.svg",
     "static/media/icon-facebook.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-facebook.1e9b33385e6dfe7a61acbff13373209c.svg",
     "static/media/icon-close.svg": "/Easy-Bank-Website-React-Hooks/static/media/icon-close.c2e36e0469b3b1e6c27328356ce18aed.svg",
-    "main.c24e9635.css.map": "/Easy-Bank-Website-React-Hooks/static/css/main.c24e9635.css.map",
+    "main.4dccc8d4.css.map": "/Easy-Bank-Website-React-Hooks/static/css/main.4dccc8d4.css.map",
     "main.58ac0a05.js.map": "/Easy-Bank-Website-React-Hooks/static/js/main.58ac0a05.js.map",
     "787.4c6c5e25.chunk.js.map": "/Easy-Bank-Website-React-Hooks/static/js/787.4c6c5e25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c24e9635.css",
+    "static/css/main.4dccc8d4.css",
     "static/js/main.58ac0a05.js"
   ]
 }
