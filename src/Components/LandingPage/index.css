@@ -9,11 +9,32 @@
     width: 82.5%;
 }
 
+.landing-page .lower-background-mobile {
+    top: -40px;
+}
+
+.landing-page .upper-background-mobile {
+    width: 100%;
+    transform: translate(-50%, -29%);
+}
+
+@media (min-width: 376px) {
+
+    .landing-page .lower-background-mobile,
+    .landing-page .upper-background-mobile {
+        display: none;
+    }
+}
+
 .landing-page .upper-background {
     left: 57.5%;
     bottom: -28.5%;
     width: 51%;
     z-index: 10;
+}
+
+.landing-page h1 {
+    color: hsl(233, 26%, 24%);
 }
 
 @media (max-width: 1199px) {
@@ -27,5 +48,11 @@
         left: 52%;
         bottom: -24%;
         width: 58%;
+    }
+}
+
+@media (max-width: 767px) {
+    .landing-page .first-column {
+        margin-top: 220px;
     }
 }
