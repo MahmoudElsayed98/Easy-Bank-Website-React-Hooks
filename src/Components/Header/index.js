@@ -33,17 +33,17 @@ function Header() {
             alt="React Bootstrap logo"
           />
         </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" ref={navbarTogglerRef} className='d-flex justify-content-center align-items-center'>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" ref={navbarTogglerRef} className='d-flex d-lg-none justify-content-center align-items-center'>
           <span className='navbar-toggler-icon d-lg-none' ref={barsIconRef}></span>
           <img src={closeIcon} alt='close icon' className='d-none d-lg-none close-item' ref={closeIconRef} />
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="m-auto">
-            <Nav.Link className='pe-3 py-4' href="#home">Home</Nav.Link>
-            <Nav.Link className='pe-3 py-4' href="#about">About</Nav.Link>
-            <Nav.Link className='pe-3 py-4' href="#contact">Contact</Nav.Link>
-            <Nav.Link className='pe-3 py-4' href="#blog">Blog</Nav.Link>
-            <Nav.Link className='pe-3 py-4' href="#careers">Careers</Nav.Link>
+            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#about">About</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
+            <Nav.Link href="#blog">Blog</Nav.Link>
+            <Nav.Link href="#careers">Careers</Nav.Link>
           </Nav>
         </Navbar.Collapse>
         <Btn sty="d-none" />

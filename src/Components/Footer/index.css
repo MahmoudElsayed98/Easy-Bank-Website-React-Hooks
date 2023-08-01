@@ -8,6 +8,26 @@
     font-size: 14px;
 }
 
+.footer a .link {
+    transition: 0.3s;
+}
+
+.footer a .link:hover {
+    color: hsl(136, 65%, 51%);
+}
+
+.footer .social a img {
+    transition: 0.3s;
+}
+
+.footer .social a img:hover {
+    filter: invert(0.5) sepia(1) saturate(5) hue-rotate(105deg);
+}
+
+/* .footer svg:hover path {
+    fill: rgb(49, 211, 92);
+} */
+
 .footer .copy-right {
     margin-top: 32.5px;
     margin-bottom: 0;
